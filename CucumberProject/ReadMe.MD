@@ -21,8 +21,8 @@ src
       +feature
 
 # Setting up the project
-Clone repository 
-Install cucumber plugin from Eclipse marketplace and restart Eclipse
-Refresh the project 
-Open feature file under - src/test/resources/HomeGain.feature
-Right click and select Run as Cucumber Feature
+1. Clone repository 
+2. Install cucumber plugin from Eclipse marketplace and restart Eclipse
+3. Refresh the project 
+4. Open feature file under - src/test/resources/HomeGain.feature
+5. Right click and select Run as Cucumber Feature
