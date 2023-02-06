@@ -21,9 +21,9 @@ src
       +feature
 
 # Setting up the project
-Clone repository 
-Install cucumber plugin from Eclipse marketplace and restart Eclipse
-Refresh the project 
-Right click on Project and Click Configure -> Convert to Cucumber project
-Open feature file under - src/test/resources/petStoreApi.feature
-Right click and select Run as Cucumber Feature
+1. Clone repository 
+2. Install cucumber plugin from Eclipse marketplace and restart Eclipse
+3. Refresh the project 
+4. Right click on Project and Click Configure -> Convert to Cucumber project
+5. Open feature file under - src/test/resources/petStoreApi.feature
+6. Right click and select Run as Cucumber Feature
